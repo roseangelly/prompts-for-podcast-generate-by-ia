@@ -63,29 +63,22 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="./assets/Foto.png"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspRose Angelly<br>
     &nbsp&nbsp&nbsp
-    <a 
-        href="https://github.com/felipeAguiarCode">
-        GitHub
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="www.linkedin.com/in/felipe-exe">
-        LinkedIn
-    </a>
-    &nbsp;|&nbsp;
-    <a 
-        href="https://www.instagram.com/felipeaguiar.exe/">
-        Instagram
-    </a>
-    &nbsp;|&nbsp;</p>
+    <a href="https://github.com/roseangelly">
+    GitHub</a>&nbsp;|&nbsp;
+    <a href="https://www.linkedin.com/in/
+rose-angelly-cabral-022059225">LinkedIn</a>
+&nbsp;|&nbsp;
+    <a href="https://www.instagram.com/rose.angelly/profilecard/?igsh=MXZ5bxOTIxeGIndw==/">
+    Instagram</a>
+&nbsp;|&nbsp;</p>
 </p>
 <br/><br/>
 <p>
 
 ---
 
-⌨️ com 💜 por [Rose Angelly](https://github.com/roseangelly)
+⌨️ com 💜 por uma corredora apaixonada e curiosa no mundo da IA [Rose Angelly](https://github.com/roseangelly)
