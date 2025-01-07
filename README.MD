@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/Podcast DIO.jpeg"
     width="300"
 />
 </p>
