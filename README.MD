@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/roseangelly/prompts-for-podcast-generate-by-ia/blob/main/output/Podcast_ep.1_O%20tesouro%20do%20bem%20estar.mp3"> 🎶Clique aqui para ouvir
-</a>
+    <a href="https://github.com/roseangelly/prompts-for-podcast-generate-by-ia/blob/main/output/O%20tesouro%20do%20bem%20estar.mp3"> 🎶Clique aqui para ouvir</a>
 
 </p>
 
