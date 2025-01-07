@@ -81,4 +81,4 @@ rose-angelly-cabral-022059225">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por uma corredora apaixonada e curiosa no mundo da IA [Rose Angelly](https://github.com/roseangelly)
+⌨️ com 💜 de alguém em busca da melhor versão e curiosa no mundo da IA [Rose Angelly](https://github.com/roseangelly)
