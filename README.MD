@@ -63,7 +63,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
       align=left 
       margin=10 
       width=80 
-      src="./assets/corrida.jpeg"
+      src="./assets/20221003_110140.jpg"
     />
     <p>&nbsp&nbsp&nbspRose Angelly<br>
     &nbsp&nbsp&nbsp
